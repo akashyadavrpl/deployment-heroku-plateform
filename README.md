@@ -1,4 +1,4 @@
-# deployment-cloud
+# deployment-heroku-plateform
 ## General info
 
 This is simple project for testing the deployment process on heroku platform.
