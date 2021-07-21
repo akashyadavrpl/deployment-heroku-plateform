@@ -12,7 +12,7 @@ Project is created with:
 ## Setup
 This project is deployed on heroku platform  to run this project simpley go on the link given below.
 
-[heroku flask application](https://deploy-cloud-01.herokuapp.com/)
+[deploy-cloud-01.herokuapp.com/](https://deploy-cloud-01.herokuapp.com/)
 
 ## Application look's like
 
